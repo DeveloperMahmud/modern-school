@@ -13,3 +13,33 @@
     background-color: #F0FFF0;
     ;
 }
+.features img{
+    width: 100px;
+    height: 100px;
+}
+.features-card{
+    background-color: #F8FFFB;
+}
+.features-card:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    background-color: #fff;
+    transition: ease-in .1s;
+}
+.course-card{
+    border-radius: 14px;
+}
+.course-card-ico{
+    width: 30px;
+    height: 30px;
+}
+.course-card p{
+    font-size: 13px;
+    font-weight: 700;
+    color: gray;
+}
+.custom-btn{
+    background-color: #21B573;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+}
