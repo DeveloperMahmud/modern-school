@@ -43,3 +43,13 @@
     padding-right: 30px;
     border: none;
 }
+.footer-links a{
+    display:block;
+    text-decoration: none;
+    color:#fff;
+    opacity: 75%;
+}
+.footer-links a:hover{
+    opacity: 100%;
+    transition: ease-in .1s;
+}
